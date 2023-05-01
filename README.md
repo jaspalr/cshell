@@ -1,4 +1,6 @@
 # cshell
+# Video Demo
+https://user-images.githubusercontent.com/105681721/235412363-1f5531b1-4dd1-4b21-85e9-692fff114106.mp4
 To compile use make\
 Then ./cshell\
 Has the following built-in commands:
@@ -14,6 +16,10 @@ Stores variables by: $\<var>\:\<value>
 Two modes:
   * script mode - use ./cshell \<filename>
   * interactive mode - use ./cshell then enter commands
+
+
+
+
 
 
 
