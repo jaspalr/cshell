@@ -1,5 +1,6 @@
 # cshell
 To compile use make\
+Then ./cshell\
 Has the following built-in commands:
  * exit - terminates the program 
  * log - prints history of executed commands with time and return code
