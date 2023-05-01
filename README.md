@@ -1,6 +1,4 @@
 # cshell
-# Video Demo
-https://user-images.githubusercontent.com/105681721/235412363-1f5531b1-4dd1-4b21-85e9-692fff114106.mp4\
 To compile use make\
 Then ./cshell\
 Has the following built-in commands:
@@ -17,9 +15,7 @@ Two modes:
   * script mode - use ./cshell \<filename>
   * interactive mode - use ./cshell then enter commands
 
+# Video Demo
 
-
-
-
-
+https://user-images.githubusercontent.com/105681721/235412702-46dc65df-c6ce-4e76-922d-bfecb8d5a00f.mp4
 
