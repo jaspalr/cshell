@@ -14,7 +14,7 @@ Two modes:
   * interactive mode - use ./cshell then enter commands
 ## To Run:
  compile using make\
- Then ./cshell\
+ Then ./cshell
 ## Video Demo
 
 https://user-images.githubusercontent.com/105681721/235412702-46dc65df-c6ce-4e76-922d-bfecb8d5a00f.mp4
